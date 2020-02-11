@@ -1,20 +1,22 @@
-
+	
 
 public class LX2_10 {
 	public static void main(String args[]) throws IOException {
 		char ch;
-		System.out.println("°´ 1/2/3 Êı×Ö¼ü¿ÉµÃ´ó½±!"); System.out.println("°´¿Õ¸ñ¼üºó»Ø³µ¿ÉÍË³öÑ­»·²Ù×÷."); 
-		while ((ch=(char)System.in.read())!=¡¯¡¯) 
-		{ System.in.skip(2);	// Ìø¹ı»Ø³µ¼ü(skip·½·¨Ìø¹ıºÍ¶ªÆúÊäÈëÁ÷ÖĞÊı¾İµÄ n ¸ö×Ö½Ú)
+		System.out.println("æŒ‰ 1/2/3 æ•°å­—é”®å¯å¾—å¤§å¥–!"); 
+                System.out.println("æŒ‰ç©ºæ ¼é”®åå›è½¦å¯é€€å‡ºå¾ªç¯æ“ä½œ."); 
+		
+		while ((ch=(char)System.in.read())!=â€™â€™) 
+		{ System.in.skip(2);	// è·³è¿‡å›è½¦é”®(skipæ–¹æ³•è·³è¿‡å’Œä¸¢å¼ƒè¾“å…¥æµä¸­æ•°æ®çš„ n ä¸ªå­—èŠ‚)
 		switch (ch) {
-		case '1': System.out.println("¹§Ï²ÄãµÃ´ó½±£¬Ò»Á¾Æû³µ!"); 
+		case '1': System.out.println("æ­å–œä½ å¾—å¤§å¥–ï¼Œä¸€è¾†æ±½è½¦!"); 
 		break;
-		case '2': System.out.println("²»´íÑ½£¬ÄãµÃµ½Ò»Ì¨±Ê¼Ç±¾µçÄÔ!");
+		case '2': System.out.println("ä¸é”™å‘€ï¼Œä½ å¾—åˆ°ä¸€å°ç¬”è®°æœ¬ç”µè„‘!");
 		break;
-		case '3': System.out.println("Ã»ÓĞ°×À´£¬ÄãµÃµ½Ò»Ì¨±ùÏä!"); 
+		case '3': System.out.println("æ²¡æœ‰ç™½æ¥ï¼Œä½ å¾—åˆ°ä¸€å°å†°ç®±!"); 
 		break;
 		default:
-		System.out.println("Õæ²»ĞÒ£¬ÄãÃ»ÓĞ½±Æ·!ÏÂ´ÎÔÙÀ´°É¡£");
+		System.out.println("çœŸä¸å¹¸ï¼Œä½ æ²¡æœ‰å¥–å“!ä¸‹æ¬¡å†æ¥å§ã€‚");
 		}
 		}
 		}
