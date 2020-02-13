@@ -13,3 +13,4 @@ Hope to work hard and gain acknowledge.<br/>
 初步了解机器学习，泛泛的了解一点点，到数学就暂时止步了<br/>
 以前学了一点点html,发现freecodecamp,学了一会儿，没耐心了，还有前面两项必要的没学。<br/>
 项目？感觉python好好用啊，从声明变量里解放出来了。先学学爬虫，再学学小游戏吧！！加油！！snowball!!
+<br/>坚持坚持坚持专心专心专心
