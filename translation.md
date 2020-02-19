@@ -7,13 +7,13 @@
 >Wet Paint
 
 ### 形和意
->人要脸，树要皮
+>人要脸，树要皮。
 >The face is as important to a man as the bark to a tree.
 ### impersonal ->personal
 >An idea suddenly stuck to me.
->我突然想到一个好主意<br/>
+>我突然想到一个好主意。<br/>
 >A great elation overcame him.
->他欣喜若狂<br/>
+>他欣喜若狂。<br/>
 >A wave of cigar smoke accompanied him in.
 >他进门时带着一缕雪茄烟。<br/>
 >
