@@ -1,6 +1,6 @@
 ##  Translation-bear in mind 
 
->###  verb->noun or adjective
+###  verb->noun or adjective
 >我一看见他就紧张。
 >Every sight of him makes me nervous.<br/>
 >油漆未干
