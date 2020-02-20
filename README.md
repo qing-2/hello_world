@@ -4,7 +4,7 @@ by introduction
 Hello,everyone,I am an undergraduate who is happy to be here!
 Hope to work hard and gain acknowledge.<br/>
 *do something easy for me at first*
-## Now,I know what this is ! Amazing
+
 ## 理一下思路
 发现GitHub很强，开放共享的百度网盘<br/>
 找到了以前的迎新网站，follow了一些认识的人<br/>
