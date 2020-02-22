@@ -28,7 +28,7 @@ def main():
     level = img.getextrema()[-1] / (len(font_map) - 1)
     #所有像素点最大的rgb里的一个值/font_map最大下标。/不是整除，//是整除
     img = img.point(lambda i: int(i / level))
-    #这句话还不懂。。。point没查到能理解的解释
+    #把所有像素点的值都减小level倍，使得灰度值和font_map元素一一对应
     new_img = Image.new('RGB', (img.width * f_size_multiple, img.height * f_size_multiple),bg_color)
     #(mode, size, color)，这里color是背景色
     f = ImageFont.truetype('arial.ttf', f_size_multiple)
