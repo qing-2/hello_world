@@ -1,4 +1,4 @@
-"""往下翻网页的时候，会逐步加载。查看XHS，headers
+"""往下翻网页的时候，会逐步加载。查看XHR，headers
 """
 import requests
 import json
